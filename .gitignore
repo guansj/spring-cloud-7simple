@@ -1,6 +1,6 @@
 *.class
-*.classpath
-*.project
+.classpath
+.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -19,8 +19,7 @@ hs_err_pid*
 *.iml
 */*.iml
 target/
-apache-tomcat*
-RemoteSystems*
-.metadata/
-apache-tomcat-8.0.41/
-Server*
+#apache-tomcat*
+#RemoteSystems*
+#.metadata/
+#apache-tomcat-8.0.41/
